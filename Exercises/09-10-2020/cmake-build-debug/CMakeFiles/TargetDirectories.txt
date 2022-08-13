@@ -1,0 +1,3 @@
+C:/Users/Code/CS003A/Exercises/09-10-2020/cmake-build-debug/CMakeFiles/09_10_2020.dir
+C:/Users/Code/CS003A/Exercises/09-10-2020/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Code/CS003A/Exercises/09-10-2020/cmake-build-debug/CMakeFiles/rebuild_cache.dir

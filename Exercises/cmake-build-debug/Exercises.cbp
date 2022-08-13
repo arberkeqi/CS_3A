@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Exercises"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/Code/CS003A/Exercises/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Code/CS003A/Exercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Code/CS003A/Exercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Code/CS003A/Exercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Code/CS003A/Exercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/Code/CS003A/Exercises/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Code/CS003A/Exercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Code/CS003A/Exercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Code/CS003A/Exercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Code/CS003A/Exercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Exercises">
+				<Option output="C:/Users/Code/CS003A/Exercises/cmake-build-debug/Exercises.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Code/CS003A/Exercises/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Code/CS003A/Exercises/09-22-2020"/>
+					<Add directory="C:/Users/Code/CS003A/Exercises/09-24-2020"/>
+					<Add directory="C:/Users/Code/CS003A/Exercises/09-29-2020"/>
+					<Add directory="C:/Users/Code/CS003A/Exercises/10-01-2020"/>
+					<Add directory="C:/Users/Code/CS003A/Exercises/10-13-2020"/>
+					<Add directory="C:/Users/Code/CS003A/Exercises/10-15-2020"/>
+					<Add directory="C:/Users/Code/CS003A/Exercises/10-20-2020"/>
+					<Add directory="C:/Users/Code/CS003A/Exercises/11-12-2020"/>
+					<Add directory="C:/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Code/CS003A/Exercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 Exercises"/>
+					<CompileFile command="C:/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Code/CS003A/Exercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Code/CS003A/Exercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Code/CS003A/Exercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Exercises/fast">
+				<Option output="C:/Users/Code/CS003A/Exercises/cmake-build-debug/Exercises.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Code/CS003A/Exercises/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Code/CS003A/Exercises/09-22-2020"/>
+					<Add directory="C:/Users/Code/CS003A/Exercises/09-24-2020"/>
+					<Add directory="C:/Users/Code/CS003A/Exercises/09-29-2020"/>
+					<Add directory="C:/Users/Code/CS003A/Exercises/10-01-2020"/>
+					<Add directory="C:/Users/Code/CS003A/Exercises/10-13-2020"/>
+					<Add directory="C:/Users/Code/CS003A/Exercises/10-15-2020"/>
+					<Add directory="C:/Users/Code/CS003A/Exercises/10-20-2020"/>
+					<Add directory="C:/Users/Code/CS003A/Exercises/11-12-2020"/>
+					<Add directory="C:/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Code/CS003A/Exercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 Exercises/fast"/>
+					<CompileFile command="C:/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Code/CS003A/Exercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Code/CS003A/Exercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Code/CS003A/Exercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/Code/CS003A/Exercises/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Code/CS003A/Exercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Code/CS003A/Exercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Code/CS003A/Exercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Code/CS003A/Exercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/Code/CS003A/Exercises/09-08-2020/const1.cpp">
+			<Option target="Exercises"/>
+		</Unit>
+		<Unit filename="C:/Users/Code/CS003A/Exercises/09-08-2020/struct1.cpp">
+			<Option target="Exercises"/>
+		</Unit>
+		<Unit filename="C:/Users/Code/CS003A/Exercises/09-10-2020/class1.cpp">
+			<Option target="Exercises"/>
+		</Unit>
+		<Unit filename="C:/Users/Code/CS003A/Exercises/09-10-2020/pointers.cpp">
+			<Option target="Exercises"/>
+		</Unit>
+		<Unit filename="C:/Users/Code/CS003A/Exercises/09-15-2020/string1.cpp">
+			<Option target="Exercises"/>
+		</Unit>
+		<Unit filename="C:/Users/Code/CS003A/Exercises/09-17-2020/class1.cpp">
+			<Option target="Exercises"/>
+		</Unit>
+		<Unit filename="C:/Users/Code/CS003A/Exercises/09-17-2020/class2.cpp">
+			<Option target="Exercises"/>
+		</Unit>
+		<Unit filename="C:/Users/Code/CS003A/Exercises/09-22-2020/color.cpp">
+			<Option target="Exercises"/>
+		</Unit>
+		<Unit filename="C:/Users/Code/CS003A/Exercises/09-22-2020/color.h">
+			<Option target="Exercises"/>
+		</Unit>
+		<Unit filename="C:/Users/Code/CS003A/Exercises/09-22-2020/color1.cpp">
+			<Option target="Exercises"/>
+		</Unit>
+		<Unit filename="C:/Users/Code/CS003A/Exercises/09-24-2020/color.cpp">
+			<Option target="Exercises"/>
+		</Unit>
+		<Unit filename="C:/Users/Code/CS003A/Exercises/09-24-2020/color.h">
+			<Option target="Exercises"/>
+		</Unit>
+		<Unit filename="C:/Users/Code/CS003A/Exercises/09-24-2020/color1.cpp">
+			<Option target="Exercises"/>
+		</Unit>
+		<Unit filename="C:/Users/Code/CS003A/Exercises/09-29-2020/char1.cpp">
+			<Option target="Exercises"/>
+		</Unit>
+		<Unit filename="C:/Users/Code/CS003A/Exercises/09-29-2020/color.cpp">
+			<Option target="Exercises"/>
+		</Unit>
+		<Unit filename="C:/Users/Code/CS003A/Exercises/09-29-2020/color.h">
+			<Option target="Exercises"/>
+		</Unit>
+		<Unit filename="C:/Users/Code/CS003A/Exercises/09-29-2020/color1.cpp">
+			<Option target="Exercises"/>
+		</Unit>
+		<Unit filename="C:/Users/Code/CS003A/Exercises/09-29-2020/color2.cpp">
+			<Option target="Exercises"/>
+		</Unit>
+		<Unit filename="C:/Users/Code/CS003A/Exercises/10-01-2020/char1.cpp">
+			<Option target="Exercises"/>
+		</Unit>
+		<Unit filename="C:/Users/Code/CS003A/Exercises/10-01-2020/color.cpp">
+			<Option target="Exercises"/>
+		</Unit>
+		<Unit filename="C:/Users/Code/CS003A/Exercises/10-01-2020/color.h">
+			<Option target="Exercises"/>
+		</Unit>
+		<Unit filename="C:/Users/Code/CS003A/Exercises/10-01-2020/color1.cpp">
+			<Option target="Exercises"/>
+		</Unit>
+		<Unit filename="C:/Users/Code/CS003A/Exercises/10-01-2020/color2.cpp">
+			<Option target="Exercises"/>
+		</Unit>
+		<Unit filename="C:/Users/Code/CS003A/Exercises/10-01-2020/student.cpp">
+			<Option target="Exercises"/>
+		</Unit>
+		<Unit filename="C:/Users/Code/CS003A/Exercises/10-01-2020/student.h">
+			<Option target="Exercises"/>
+		</Unit>
+		<Unit filename="C:/Users/Code/CS003A/Exercises/10-01-2020/student1.cpp">
+			<Option target="Exercises"/>
+		</Unit>
+		<Unit filename="C:/Users/Code/CS003A/Exercises/10-06-2020/new1.cpp">
+			<Option target="Exercises"/>
+		</Unit>
+		<Unit filename="C:/Users/Code/CS003A/Exercises/10-06-2020/new2.cpp">
+			<Option target="Exercises"/>
+		</Unit>
+		<Unit filename="C:/Users/Code/CS003A/Exercises/10-08-2020/namespace1.cpp">
+			<Option target="Exercises"/>
+		</Unit>
+		<Unit filename="C:/Users/Code/CS003A/Exercises/10-08-2020/namespace2.cpp">
+			<Option target="Exercises"/>
+		</Unit>
+		<Unit filename="C:/Users/Code/CS003A/Exercises/10-08-2020/namespace3.cpp">
+			<Option target="Exercises"/>
+		</Unit>
+		<Unit filename="C:/Users/Code/CS003A/Exercises/10-13-2020/list.cpp">
+			<Option target="Exercises"/>
+		</Unit>
+		<Unit filename="C:/Users/Code/CS003A/Exercises/10-13-2020/list.h">
+			<Option target="Exercises"/>
+		</Unit>
+		<Unit filename="C:/Users/Code/CS003A/Exercises/10-13-2020/list1.cpp">
+			<Option target="Exercises"/>
+		</Unit>
+		<Unit filename="C:/Users/Code/CS003A/Exercises/10-15-2020/list.cpp">
+			<Option target="Exercises"/>
+		</Unit>
+		<Unit filename="C:/Users/Code/CS003A/Exercises/10-15-2020/list.h">
+			<Option target="Exercises"/>
+		</Unit>
+		<Unit filename="C:/Users/Code/CS003A/Exercises/10-15-2020/list1.cpp">
+			<Option target="Exercises"/>
+		</Unit>
+		<Unit filename="C:/Users/Code/CS003A/Exercises/10-20-2020/list.cpp">
+			<Option target="Exercises"/>
+		</Unit>
+		<Unit filename="C:/Users/Code/CS003A/Exercises/10-20-2020/list.h">
+			<Option target="Exercises"/>
+		</Unit>
+		<Unit filename="C:/Users/Code/CS003A/Exercises/10-20-2020/list1.cpp">
+			<Option target="Exercises"/>
+		</Unit>
+		<Unit filename="C:/Users/Code/CS003A/Exercises/10-22-2020/rec1.cpp">
+			<Option target="Exercises"/>
+		</Unit>
+		<Unit filename="C:/Users/Code/CS003A/Exercises/10-27-2020/rec1.cpp">
+			<Option target="Exercises"/>
+		</Unit>
+		<Unit filename="C:/Users/Code/CS003A/Exercises/10-29-2020/class1.cpp">
+			<Option target="Exercises"/>
+		</Unit>
+		<Unit filename="C:/Users/Code/CS003A/Exercises/10-29-2020/class2.cpp">
+			<Option target="Exercises"/>
+		</Unit>
+		<Unit filename="C:/Users/Code/CS003A/Exercises/10-29-2020/class3.cpp">
+			<Option target="Exercises"/>
+		</Unit>
+		<Unit filename="C:/Users/Code/CS003A/Exercises/11-03-2020/class1.cpp">
+			<Option target="Exercises"/>
+		</Unit>
+		<Unit filename="C:/Users/Code/CS003A/Exercises/11-03-2020/class2.cpp">
+			<Option target="Exercises"/>
+		</Unit>
+		<Unit filename="C:/Users/Code/CS003A/Exercises/11-03-2020/except1.cpp">
+			<Option target="Exercises"/>
+		</Unit>
+		<Unit filename="C:/Users/Code/CS003A/Exercises/11-03-2020/except2.cpp">
+			<Option target="Exercises"/>
+		</Unit>
+		<Unit filename="C:/Users/Code/CS003A/Exercises/11-05-2020/except1.cpp">
+			<Option target="Exercises"/>
+		</Unit>
+		<Unit filename="C:/Users/Code/CS003A/Exercises/11-05-2020/except2.cpp">
+			<Option target="Exercises"/>
+		</Unit>
+		<Unit filename="C:/Users/Code/CS003A/Exercises/11-05-2020/except3.cpp">
+			<Option target="Exercises"/>
+		</Unit>
+		<Unit filename="C:/Users/Code/CS003A/Exercises/11-10-2020/template1.cpp">
+			<Option target="Exercises"/>
+		</Unit>
+		<Unit filename="C:/Users/Code/CS003A/Exercises/11-12-2020/lambda1.cpp">
+			<Option target="Exercises"/>
+		</Unit>
+		<Unit filename="C:/Users/Code/CS003A/Exercises/11-12-2020/lambda2.cpp">
+			<Option target="Exercises"/>
+		</Unit>
+		<Unit filename="C:/Users/Code/CS003A/Exercises/11-12-2020/lambda3.cpp">
+			<Option target="Exercises"/>
+		</Unit>
+		<Unit filename="C:/Users/Code/CS003A/Exercises/11-12-2020/list.h">
+			<Option target="Exercises"/>
+		</Unit>
+		<Unit filename="C:/Users/Code/CS003A/Exercises/11-12-2020/list1.cpp">
+			<Option target="Exercises"/>
+		</Unit>
+		<Unit filename="C:/Users/Code/CS003A/Exercises/11-12-2020/swap.h">
+			<Option target="Exercises"/>
+		</Unit>
+		<Unit filename="C:/Users/Code/CS003A/Exercises/11-12-2020/template1.cpp">
+			<Option target="Exercises"/>
+		</Unit>
+		<Unit filename="C:/Users/Code/CS003A/Exercises/11-17-2020/iter1.cpp">
+			<Option target="Exercises"/>
+		</Unit>
+		<Unit filename="C:/Users/Code/CS003A/Exercises/11-17-2020/iter2.cpp">
+			<Option target="Exercises"/>
+		</Unit>
+		<Unit filename="C:/Users/Code/CS003A/Exercises/11-17-2020/map1.cpp">
+			<Option target="Exercises"/>
+		</Unit>
+		<Unit filename="C:/Users/Code/CS003A/Exercises/11-19-2020/deque1.cpp">
+			<Option target="Exercises"/>
+		</Unit>
+		<Unit filename="C:/Users/Code/CS003A/Exercises/11-19-2020/set1.cpp">
+			<Option target="Exercises"/>
+		</Unit>
+		<Unit filename="C:/Users/Code/CS003A/Exercises/11-19-2020/vector1.cpp">
+			<Option target="Exercises"/>
+		</Unit>
+		<Unit filename="C:/Users/Code/CS003A/Exercises/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

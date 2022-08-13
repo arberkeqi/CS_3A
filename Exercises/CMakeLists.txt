@@ -1,0 +1,81 @@
+cmake_minimum_required(VERSION 3.17)
+project(Exercises)
+
+set(CMAKE_CXX_STANDARD 14)
+
+include_directories(09-22-2020)
+include_directories(09-24-2020)
+include_directories(09-29-2020)
+include_directories(10-01-2020)
+include_directories(10-13-2020)
+include_directories(10-15-2020)
+include_directories(10-20-2020)
+include_directories(11-12-2020)
+
+add_executable(Exercises
+        09-08-2020/const1.cpp
+        09-08-2020/struct1.cpp
+        09-10-2020/class1.cpp
+        09-10-2020/pointers.cpp
+        09-15-2020/string1.cpp
+        09-17-2020/class1.cpp
+        09-17-2020/class2.cpp
+        09-22-2020/color.cpp
+        09-22-2020/color.h
+        09-22-2020/color1.cpp
+        09-24-2020/color.cpp
+        09-24-2020/color.h
+        09-24-2020/color1.cpp
+        09-29-2020/char1.cpp
+        09-29-2020/color.cpp
+        09-29-2020/color.h
+        09-29-2020/color1.cpp
+        09-29-2020/color2.cpp
+        10-01-2020/char1.cpp
+        10-01-2020/color.cpp
+        10-01-2020/color.h
+        10-01-2020/color1.cpp
+        10-01-2020/color2.cpp
+        10-01-2020/student.cpp
+        10-01-2020/student.h
+        10-01-2020/student1.cpp
+        10-06-2020/new1.cpp
+        10-06-2020/new2.cpp
+        10-08-2020/namespace1.cpp
+        10-08-2020/namespace2.cpp
+        10-08-2020/namespace3.cpp
+        10-13-2020/list.cpp
+        10-13-2020/list.h
+        10-13-2020/list1.cpp
+        10-15-2020/list.cpp
+        10-15-2020/list.h
+        10-15-2020/list1.cpp
+        10-20-2020/list.cpp
+        10-20-2020/list.h
+        10-20-2020/list1.cpp
+        10-22-2020/rec1.cpp
+        10-27-2020/rec1.cpp
+        10-29-2020/class1.cpp
+        10-29-2020/class2.cpp
+        10-29-2020/class3.cpp
+        11-03-2020/class1.cpp
+        11-03-2020/class2.cpp
+        11-03-2020/except1.cpp
+        11-03-2020/except2.cpp
+        11-05-2020/except1.cpp
+        11-05-2020/except2.cpp
+        11-05-2020/except3.cpp
+        11-10-2020/template1.cpp
+        11-12-2020/lambda1.cpp
+        11-12-2020/lambda2.cpp
+        11-12-2020/lambda3.cpp
+        11-12-2020/list.h
+        11-12-2020/list1.cpp
+        11-12-2020/swap.h
+        11-12-2020/template1.cpp
+        11-17-2020/iter1.cpp
+        11-17-2020/iter2.cpp
+        11-17-2020/map1.cpp
+        11-19-2020/deque1.cpp
+        11-19-2020/set1.cpp
+        11-19-2020/vector1.cpp)
